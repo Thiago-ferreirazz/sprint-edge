@@ -1,16 +1,3 @@
-O vídeo tem as seguintes características:
-- **Resolução:** 1920x1080
-- **Duração:** 250.7 segundos (~4 minutos e 10 segundos)
-- **Codec de vídeo:** H.264
-- **Codec de áudio:** AAC
-- **Taxa de quadros:** 30 fps
-- **Taxa de bits:** 1.71 Mbps
-
-Vou assistir ao vídeo para entender o contexto e fornecer mais detalhes relevantes. Um momento, por favor.
-
-Atualmente, não consigo visualizar diretamente o vídeo. No entanto, com base nas informações fornecidas, posso continuar elaborando o `README.md` em português.
-
----
 
 # Projeto de Integração de Sensores com Arduino
 
